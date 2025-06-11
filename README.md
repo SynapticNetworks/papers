@@ -261,7 +261,7 @@ Our architecture leverages design patterns that have been proven in thousands of
 
 ### 8.1 Unlimited Experimental Possibilities
 
-The architectural flexibility enables virtually any conceivable neural experiment. Researchers can implement novel plasticity rules, test alternative network topologies, or explore hybrid biological-artificial systems with unprecedented ease.
+The architectural flexibility enables virtually any conceivable neural experiment. Researchers can implement novel plasticity rules, test alternative network topologies, or explore hybrid biological-artificial systems with unprecedented ease. See also: [the Research Canvas](../ResearchCanvas.md)
 
 **Neural-Computer Interfaces**: The real-time message-passing system can seamlessly interface with external hardware, enabling experiments with brain-computer interfaces, neural prosthetics, or hybrid biological-artificial networks where our simulated neurons interact directly with biological neural tissue.
 
