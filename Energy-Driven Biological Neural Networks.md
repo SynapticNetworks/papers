@@ -703,7 +703,7 @@ During charging periods, the robot exhibits automatic memory consolidation proce
 
 Recovery from sleep states demonstrates progressive restoration of full functionality as energy levels increase. Critical navigation capabilities recover first, followed by learning functions and finally exploration behaviors. This prioritized recovery pattern mirrors biological sleep-wake transitions and demonstrates sophisticated energy allocation strategies that maintain essential functions while optimizing overall system performance.
 
-## A.3.3 Personalized Maze Learning and Adaptation
+### A.3.3 Personalized Maze Learning and Adaptation
 
 The platform demonstrates personalized learning through the robot's ability to develop individualized navigation strategies for different maze configurations. Each maze presents unique spatial challenges that require the development of specialized navigation approaches, with the robot learning to recognize and adapt to distinct environmental patterns through energy-driven optimization processes.
 
